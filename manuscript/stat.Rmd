@@ -1,0 +1,12 @@
+---
+title: "Statref"
+output:
+  pdf_document: default
+  html_document: default
+date: "2023-09-27"
+---
+```{r}
+AVG<-c(0.312,0.290,0.273,0.250)
+boxplot(AVG)
+
+```
